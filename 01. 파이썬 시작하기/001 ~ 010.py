@@ -31,4 +31,4 @@ print("naver", "kakao", "samsung", sep="/")
 print("first", end="");print("second")
 
 # 010 연산 결과 출력
-print(5/3)
+print(5/3)  
